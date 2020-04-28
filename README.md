@@ -1,2 +1,2 @@
 # Send-it-and-Receive-it
-File Transfer between a server and a client
+ An application developed in Python for file transfer. Made use of TCP Sockets for establishing sockets and TKinter for GUI.
